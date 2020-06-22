@@ -275,8 +275,8 @@
                 "height": 100
               },
               "position": {
-                "x": 215,
-                "y": 181
+                "x": 208,
+                "y": 189
               },
               "angle": 0,
               "id": "0d9909ea-1398-4898-be81-cf1c808324dc",
@@ -338,6 +338,10 @@
             },
             {
               "type": "tm.Boundary",
+              "size": {
+                "width": 10,
+                "height": 10
+              },
               "smooth": true,
               "source": {
                 "x": 130,
@@ -359,6 +363,10 @@
             },
             {
               "type": "tm.Boundary",
+              "size": {
+                "width": 10,
+                "height": 10
+              },
               "smooth": true,
               "source": {
                 "x": 339,
@@ -380,6 +388,10 @@
             },
             {
               "type": "tm.Flow",
+              "size": {
+                "width": 10,
+                "height": 10
+              },
               "smooth": true,
               "source": {
                 "id": "b394f9f7-07ca-42bc-b616-ad77c6fbfcce"
@@ -433,6 +445,10 @@
             },
             {
               "type": "tm.Flow",
+              "size": {
+                "width": 10,
+                "height": 10
+              },
               "smooth": true,
               "source": {
                 "id": "0d9909ea-1398-4898-be81-cf1c808324dc"
@@ -483,6 +499,10 @@
             },
             {
               "type": "tm.Flow",
+              "size": {
+                "width": 10,
+                "height": 10
+              },
               "smooth": true,
               "source": {
                 "id": "ec574fb4-87e7-494b-88dc-2a3c99172067"
@@ -533,6 +553,10 @@
             },
             {
               "type": "tm.Boundary",
+              "size": {
+                "width": 10,
+                "height": 10
+              },
               "smooth": true,
               "source": {
                 "x": 551,
@@ -554,6 +578,10 @@
             },
             {
               "type": "tm.Flow",
+              "size": {
+                "width": 10,
+                "height": 10
+              },
               "smooth": true,
               "source": {
                 "id": "936557f9-22e2-4bac-bb70-0089c5c2fbe1"
@@ -604,6 +632,10 @@
             },
             {
               "type": "tm.Boundary",
+              "size": {
+                "width": 10,
+                "height": 10
+              },
               "smooth": true,
               "source": {
                 "x": 253,
@@ -629,6 +661,10 @@
             },
             {
               "type": "tm.Flow",
+              "size": {
+                "width": 10,
+                "height": 10
+              },
               "smooth": true,
               "source": {
                 "id": "0d9909ea-1398-4898-be81-cf1c808324dc"
@@ -682,6 +718,10 @@
             },
             {
               "type": "tm.Flow",
+              "size": {
+                "width": 10,
+                "height": 10
+              },
               "smooth": true,
               "source": {
                 "id": "bdd3e115-4b92-4020-90b7-c3351dba292b"
@@ -723,6 +763,10 @@
             },
             {
               "type": "tm.Flow",
+              "size": {
+                "width": 10,
+                "height": 10
+              },
               "smooth": true,
               "source": {
                 "id": "a25bbb4e-093f-4238-a620-31efdee452dc"
@@ -764,6 +808,10 @@
             },
             {
               "type": "tm.Flow",
+              "size": {
+                "width": 10,
+                "height": 10
+              },
               "smooth": true,
               "source": {
                 "id": "0d9909ea-1398-4898-be81-cf1c808324dc"
@@ -805,6 +853,10 @@
             },
             {
               "type": "tm.Flow",
+              "size": {
+                "width": 10,
+                "height": 10
+              },
               "smooth": true,
               "source": {
                 "id": "936557f9-22e2-4bac-bb70-0089c5c2fbe1"
@@ -845,6 +897,10 @@
             },
             {
               "type": "tm.Flow",
+              "size": {
+                "width": 10,
+                "height": 10
+              },
               "smooth": true,
               "source": {
                 "id": "3e75b596-9c70-41b6-a2cf-a15899c254d3"
